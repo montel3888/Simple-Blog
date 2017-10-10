@@ -1,0 +1,1046 @@
+[2017-10-03 11:38:55] Текст ошибки: include(404.html): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Строка: 106
+==========================
+[2017-10-03 11:45:51] Текст ошибки: include(404.html): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Строка: 106
+==========================
+[2017-10-03 11:45:56] Текст ошибки: include(404.html): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Строка: 106
+==========================
+[2017-10-03 11:46:04] Текст ошибки: include(404.html): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Строка: 106
+==========================
+[2017-10-03 11:46:07] Текст ошибки: include(404.html): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Строка: 106
+==========================
+[2017-10-03 11:46:08] Текст ошибки: include(404.html): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Строка: 106
+==========================
+[2017-10-05 04:31:14] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-05 04:31:22] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-05 05:29:20] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-05 05:29:20] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-05 05:29:26] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-05 05:29:48] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-05 05:30:27] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-05 05:30:36] Error text: Page not found | File: C:\xampp\htdocs\HeadCount\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:18:54] Error text: Could not connect to database (products). | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\libs\rb.php, | Line: 858
+==========================
+[2017-10-10 03:20:47] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'products.projects' doesn't exist | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 03:21:54] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'products.menu' doesn't exist | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 03:23:38] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:11] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:37] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:46] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:49] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:33:49] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:43:49] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:43:49] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:44:01] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 03:44:01] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:23:25] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:23:25] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:23:25] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:23:25] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:23:25] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:23:33] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:24:28] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 04:24:36] Error text: Page not found | File: C:\xampp\htdocs\GitHubProjects\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:10:18] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:10:22] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/Posts/details.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 05:11:08] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:11:08] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:11:08] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:11:08] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:11:08] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:11:08] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:52:18] Error text: Method <b>app\controllers\MainController::mainAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 05:53:12] Error text: Method <b>app\controllers\MainController::mainAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 05:53:16] Error text: Method <b>app\controllers\MainController::mainAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 05:53:29] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:57:27] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 05:59:35] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 06:04:34] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 06:04:42] Error text: Method <b>app\controllers\MainController::viewAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 06:05:07] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 06:05:18] Error text: Controller <b>app\controllers\ViewController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 06:06:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 06:06:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 06:06:28] Error text: Controller <b>app\controllers\IndexController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 06:09:40] Error text: Controller <b>app\controllers\IndexController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 06:10:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 06:14:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 06:16:23] Error text: Undefined variable: test | File: C:\xampp\htdocs\SimpleExample\app\views\admin\User\index.php, | Line: 3
+==========================
+[2017-10-10 06:19:31] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 16
+==========================
+[2017-10-10 06:22:23] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 17
+==========================
+[2017-10-10 06:22:29] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 17
+==========================
+[2017-10-10 06:24:26] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:24:27] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:24:28] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:24:56] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:24:57] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:25:28] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:25:37] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:25:47] Error text: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING) | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:25:52] Error text: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING) | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:26:30] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:26:32] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:26:59] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:27:00] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:28:23] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\admin\User\index.php, | Line: 19
+==========================
+[2017-10-10 06:28:40] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:29:10] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:29:11] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:29:12] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:29:12] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:29:13] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 14
+==========================
+[2017-10-10 06:30:17] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:30:18] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:30:18] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:30:51] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:30:52] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:31:18] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:31:24] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:38:20] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\admin\User\index.php, | Line: 19
+==========================
+[2017-10-10 06:56:10] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\User\login.php, | Line: 19
+==========================
+[2017-10-10 06:56:45] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\User\login.php, | Line: 19
+==========================
+[2017-10-10 06:57:59] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\UserController.php, | Line: 13
+==========================
+[2017-10-10 06:58:57] Error text: Controller <b>app\controllers\admin\LoginController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 06:59:15] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 07:00:30] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 07:00:33] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 08:00:58] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/User/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 08:01:38] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/User/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 08:01:44] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/User/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 08:02:01] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/User/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 08:03:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 08:04:05] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\admin\User\index.php, | Line: 20
+==========================
+[2017-10-10 08:04:58] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/User/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 08:06:46] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/User/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 08:08:23] Error text: Controller <b>app\controllers\admin\UserController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 08:08:54] Error text: Controller <b>app\controllers\admin\UserController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 08:09:40] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/User/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 08:12:15] Error text: Controller <b>app\controllers\UserController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 08:13:45] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause' | File: C:\xampp\htdocs\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 08:14:02] Error text: <p>Layout is not found <b>C:\xampp\htdocs\SimpleExample/app/views/layouts/login.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 66
+==========================
+[2017-10-10 08:16:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 08:16:35] Error text: Controller <b>app\controllers\admin\LoginController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 08:16:50] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause' | File: C:\xampp\htdocs\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 08:17:12] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\index.php, | Line: 20
+==========================
+[2017-10-10 08:21:07] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:21:21] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:27:56] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:28:11] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:28:31] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:29:29] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:29:38] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:30:46] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:34:28] Error text: syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 29
+==========================
+[2017-10-10 08:37:10] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause' | File: C:\xampp\htdocs\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 08:37:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 08:42:11] Error text: Call to undefined function app\controllers\admin\redirect() | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 32
+==========================
+[2017-10-10 08:47:13] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' | File: C:\xampp\htdocs\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 08:58:19] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\index.php, | Line: 20
+==========================
+[2017-10-10 09:35:59] Error text: Undefined index: username | File: C:\xampp\htdocs\SimpleExample\app\views\layouts\admin.php, | Line: 55
+==========================
+[2017-10-10 09:36:15] Error text: Undefined index: login | File: C:\xampp\htdocs\SimpleExample\app\views\layouts\admin.php, | Line: 55
+==========================
+[2017-10-10 09:40:23] Error text: Controller <b>app\controllers\HeadCountTestController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 09:40:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:40:31] Error text: Controller <b>app\controllers\HeadCountTestController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 09:40:52] Error text: Controller <b>app\controllers\HeadCountTestController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 09:41:08] Error text: Controller <b>app\controllers\HeadCountTestController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:46:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:47:03] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:47:03] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:47:03] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 09:51:24] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:00:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:11] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:55] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:57] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:01:57] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:10] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:56] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:57] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:02:57] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:47] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:16:59] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:18:05] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:18:05] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:18:05] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:18:05] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:18:05] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:18:05] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:18:05] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:09] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:23] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:19:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:00] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:21:58] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:22:35] Error text: Method <b>app\controllers\admin\AdminController::mainAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:22:49] Error text: Method <b>app\controllers\admin\AdminController::mainAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:23:04] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:23:39] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:25:05] Error text: Method <b>app\controllers\admin\AdminController::adminAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:27:58] Error text: Method <b>app\controllers\admin\AdminController::mainAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:28:50] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:29:15] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:29:26] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:29:42] Error text: Method <b>app\controllers\admin\AdminController::adminAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:33:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:34:07] Error text: Method <b>app\controllers\admin\AdminController::productAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:35:14] Error text: Method <b>app\controllers\admin\AdminController::productAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:35:21] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:35:25] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:36:19] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 10:36:29] Error text: Method <b>app\controllers\admin\AdminController::productAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 10:36:54] Error text: Controller <b>app\controllers\admin\ProductController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 10:37:39] Error text: Controller <b>app\controllers\admin\ProductController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 10:38:14] Error text: Controller <b>app\controllers\admin\ProductController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 10:40:38] Error text: Undefined variable: results | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 10
+==========================
+[2017-10-10 10:41:24] Error text: Undefined variable: results | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 2
+==========================
+[2017-10-10 10:41:36] Error text: Undefined variable: results | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 2
+==========================
+[2017-10-10 10:41:37] Error text: Undefined variable: results | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 2
+==========================
+[2017-10-10 10:42:33] Error text: Method <b>app\controllers\admin\AdminController::adminAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 11:05:57] Error text: Method <b>app\controllers\admin\AdminController::adminAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 11:06:12] Error text: Method <b>app\controllers\admin\AdminController::adminAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 11:06:36] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 11:14:14] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 39
+==========================
+[2017-10-10 11:15:04] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 39
+==========================
+[2017-10-10 11:16:49] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 42
+==========================
+[2017-10-10 11:29:20] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 43
+==========================
+[2017-10-10 11:29:29] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 43
+==========================
+[2017-10-10 11:30:45] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 41
+==========================
+[2017-10-10 11:31:15] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 41
+==========================
+[2017-10-10 11:31:22] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 41
+==========================
+[2017-10-10 11:32:38] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 41
+==========================
+[2017-10-10 11:33:26] Error text: Undefined variable: product_one | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 5
+==========================
+[2017-10-10 11:33:48] Error text: Undefined variable: product_view | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 5
+==========================
+[2017-10-10 11:34:13] Error text: Undefined variable: product_view | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 5
+==========================
+[2017-10-10 11:35:06] Error text: Class 'app\controllers\admin\R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 41
+==========================
+[2017-10-10 11:35:20] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 41
+==========================
+[2017-10-10 11:35:23] Error text: Class 'app\controllers\admin\R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 41
+==========================
+[2017-10-10 11:36:42] Error text: Class 'app\controllers\admin\R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 42
+==========================
+[2017-10-10 11:37:15] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 42
+==========================
+[2017-10-10 11:37:54] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:39:44] Error text: Namespace declaration statement has to be the very first statement or after any declare call in the script | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 6
+==========================
+[2017-10-10 11:39:53] Error text: Class '\RedBeanPHP\R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 9
+==========================
+[2017-10-10 11:40:15] Error text: Class 'RedBeanPHP\R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:40:17] Error text: Class 'RedBeanPHP\R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:41:11] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:41:12] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:42:04] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:42:05] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:42:23] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:42:24] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:42:25] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:42:25] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:42:25] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:43:01] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 39
+==========================
+[2017-10-10 11:43:58] Error text: Method <b>app\controllers\admin\AdminController::viewAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 11:50:19] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 11:50:38] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 39
+==========================
+[2017-10-10 11:51:59] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 40
+==========================
+[2017-10-10 11:52:30] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/admin\Admin/loginn.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 12:04:33] Error text: unlink(): Invalid argument | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 67
+==========================
+[2017-10-10 12:05:05] Error text: unlink(): Invalid argument | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 67
+==========================
+[2017-10-10 12:05:55] Error text: Attempt to insert an non image file. | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 57
+==========================
+[2017-10-10 12:06:07] Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/public/MyUploadImages/AqAKUYxPRKA.jpg  WHERE id = 29' at line 1 | File: C:\xampp\htdocs\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 12:06:51] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/admin\Admin/addProduct.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 12:30:35] Error text: Undefined variable: product_view | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\product.php, | Line: 3
+==========================
+[2017-10-10 12:34:59] Error text: move_uploaded_file(/public/MyUploadImages/AqAKUYxPRKA.jpg): failed to open stream: No such file or directory | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 73
+==========================
+[2017-10-10 12:36:19] Error text: move_uploaded_file(public/MyUploadImages/AqAKUYxPRKA.jpg): failed to open stream: No such file or directory | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 73
+==========================
+[2017-10-10 12:37:02] Error text: move_uploaded_file(/SimpleExample/public/MyUploadImages/AqAKUYxPRKA.jpg): failed to open stream: No such file or directory | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 73
+==========================
+[2017-10-10 12:37:50] Error text: move_uploaded_file(SimpleExample/public/MyUploadImages/AqAKUYxPRKA.jpg): failed to open stream: No such file or directory | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 73
+==========================
+[2017-10-10 12:38:17] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 74
+==========================
+[2017-10-10 12:38:40] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image_path' in 'field list' | File: C:\xampp\htdocs\SimpleExample\vendor\hc\libs\rb.php, | Line: 720
+==========================
+[2017-10-10 12:39:55] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/admin\Admin/addProduct.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 12:47:10] Error text: Class 'R' not found | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 89
+==========================
+[2017-10-10 12:52:27] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:27] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:27] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:27] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:27] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:27] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:52:38] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 12:54:00] Error text: Undefined index: file | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 54
+==========================
+[2017-10-10 12:56:08] Error text: Undefined index: file | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 54
+==========================
+[2017-10-10 12:56:09] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/admin\Admin/addProduct.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 12:57:48] Error text: Undefined index: file | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 54
+==========================
+[2017-10-10 12:58:16] Error text: Undefined index: file | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 54
+==========================
+[2017-10-10 12:59:38] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/admin\Admin/addProduct.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 13:05:08] Error text: Attempt to insert an non image file. | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 59
+==========================
+[2017-10-10 13:05:30] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/admin\Admin/addProduct.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 13:10:08] Error text: Attempt to insert an non image file. | File: C:\xampp\htdocs\SimpleExample\app\controllers\admin\AdminController.php, | Line: 59
+==========================
+[2017-10-10 13:13:26] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:13:26] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:18:27] Error text: Undefined variable: products | File: C:\xampp\htdocs\SimpleExample\app\views\admin\Admin\index.php, | Line: 20
+==========================
+[2017-10-10 13:19:40] Error text: Controller <b>app\controllers\ViewController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 13:19:54] Error text: Controller <b>app\controllers\ViewController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 13:20:11] Error text: Controller <b>app\controllers\ViewController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 13:21:13] Error text: Controller <b>app\controllers\admin\ViewController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 13:21:48] Error text: Controller <b>app\controllers\ViewController</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 102
+==========================
+[2017-10-10 13:22:36] Error text: <p>View is not found <b>C:\xampp\htdocs\SimpleExample/app/views/admin\Admin/addProduct.php</b></p> | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\base\View.php, | Line: 51
+==========================
+[2017-10-10 13:40:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:40:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:40:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:40:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:40:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:40:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:41:15] Error text: Method <b>app\controllers\MainController::adminAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 13:42:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:02] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:02] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:06] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:06] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:06] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:06] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:06] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:06] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:06] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:17] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:17] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:17] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:37] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:42:56] Error text: Method <b>app\controllers\MainController::adminAction</b> is not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 98
+==========================
+[2017-10-10 13:43:15] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:43:15] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:43:15] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:43:15] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:01] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 13:44:20] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================
+[2017-10-10 14:18:39] Error text: Could not connect to database (montel). | File: C:\xampp\htdocs\SimpleExample\vendor\hc\libs\rb.php, | Line: 858
+==========================
+[2017-10-10 14:18:54] Error text: Page not found | File: C:\xampp\htdocs\SimpleExample\vendor\hc\core\Router.php, | Line: 107
+==========================

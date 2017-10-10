@@ -1,0 +1,14 @@
+{
+    "name": "hc/hc",
+    "require": {
+        "monolog/monolog": "^1.23",
+        "phpmailer/phpmailer": "^5.2",
+        "vlucas/valitron": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "hc\\": "vendor/hc",
+            "app\\": "app"
+        }
+    }
+}
